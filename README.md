@@ -1,7 +1,9 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/AbdullahALQadri)
-<h1 align="center">Hi 👋, I'm Abdullah AL-Qadri</h1>
+<h1 align="center">Hi 👋, I'm Abdullah AL-Qadri </h1>
 - 👨‍💻 My Portfolio website (https://zaap.bio/abdulahalqadri)
-<h3 align="center">A passionate Flutter Developer developer "Android & IOS" from Palestine</h3>
+<h3 align="center">A passionate Flutter Developer developer "Android & IOS" <img  align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=130px> </h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahALQadri&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah AL-Qadri" /> </p>
 
