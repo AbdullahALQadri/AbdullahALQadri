@@ -2,7 +2,8 @@
 
 <h1 align="center">Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
-
+<div size='20px'> Hi! My name is Abdullah AL-Qadri. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<br>
 - 👨‍💻 My Portfolio website (https://zaap.bio/abdulahalqadri)
 <h3 align="center">A passionate Flutter Developer "Android & IOS" <img  align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=130px> </h3>
 
